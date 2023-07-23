@@ -1,0 +1,14 @@
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\bin\Debug\realtimeCPS.exe.config
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\bin\Debug\realtimeCPS.exe
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\bin\Debug\realtimeCPS.pdb
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.csprojAssemblyReference.cache
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.Form1.resources
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.Properties.Resources.resources
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.csproj.GenerateResource.cache
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.csproj.CoreCompileInputs.cache
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.exe
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.pdb
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\bin\Debug\realtimeCPS.exe.manifest
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\bin\Debug\realtimeCPS.application
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.exe.manifest
+C:\Users\smnet\Documents\Visual Studio 2017\Projects\realtimeCPS\realtimeCPS\obj\Debug\realtimeCPS.application
